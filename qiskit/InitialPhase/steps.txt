@@ -1,0 +1,3 @@
+pi[p install qiskit
+pip install matplotlib
+pipinstall qiskit-aer
